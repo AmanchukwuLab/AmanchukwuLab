@@ -1,6 +1,6 @@
-- 👋 Hi, We are @AmanchukwuLab
-- 👀 We are interested in solving electrolyte discovery using AI/ML
-- 📫 How to reach us chibueze@uchicago.edu
+- 👋 Hi, We are @AmanchukwuLab!
+- 👀 We are interested in solving electrolyte challenges for energy storage using AI/ML
+- 📫 Reach us at chibueze@uchicago.edu
 
 <!---
 AmanchukwuLab/AmanchukwuLab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
