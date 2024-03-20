@@ -1,7 +1,7 @@
-- 👋 Hi, We are #AmanchukwuLab!
+- 👋 Hi, we are #AmanchukwuLab!
 - 👀 We are interested in solving electrolyte challenges for energy storage and conversion using experiments, simulations, and data science
 - 📫 Reach us at chibueze@uchicago.edu
-- Can see more of our work at https://amanchukwu.uchicago.edu/
+- Please visit https://amanchukwu.uchicago.edu/ for information on our work
 
 <!---
 AmanchukwuLab/AmanchukwuLab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
