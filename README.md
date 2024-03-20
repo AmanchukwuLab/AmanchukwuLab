@@ -1,5 +1,5 @@
-- 👋 Hi, We are @AmanchukwuLab!
-- 👀 We are interested in solving electrolyte challenges for energy storage and conversion using AI/ML
+- 👋 Hi, We are #AmanchukwuLab!
+- 👀 We are interested in solving electrolyte challenges for energy storage and conversion using experiments, simulations, and data science
 - 📫 Reach us at chibueze@uchicago.edu
 - Can see more of our work at https://amanchukwu.uchicago.edu/
 
